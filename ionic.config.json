@@ -1,0 +1,7 @@
+{
+  "name": "sportacs_web_desktop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
